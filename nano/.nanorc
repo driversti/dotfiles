@@ -1,0 +1,24 @@
+# Display line numbers
+set linenumbers
+
+# Show cursor position in status bar
+set constantshow
+
+# Enable mouse support
+set mouse
+
+# Smooth scrolling
+set smooth
+
+# Tab size
+set tabsize 4
+
+# Convert tabs to spaces
+set tabstospaces
+
+# Auto-indent new lines
+set autoindent
+
+# Enable syntax highlighting (nano ships with many by default)
+include "/usr/share/nano/*.nanorc"
+include "/usr/share/nano/extra/*.nanorc"

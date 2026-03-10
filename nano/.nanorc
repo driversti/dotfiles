@@ -7,9 +7,6 @@ set constantshow
 # Enable mouse support
 set mouse
 
-# Smooth scrolling
-set smooth
-
 # Tab size
 set tabsize 4
 

@@ -1,3 +1,6 @@
+# Terminal — LXC containers often have empty TERM
+[[ -z "$TERM" ]] && export TERM="xterm-256color"
+
 # Path
 export PATH="$HOME/.local/bin:$PATH"
 
